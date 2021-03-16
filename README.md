@@ -1,4 +1,4 @@
-# fantastic-waddle
+# pharmacy management system
 The project entitled Pharmacy Management System. This is developed for established Medical stores in the city. To manage all operations of the medical store this project is being developed. It will have the entire basic module to manage the medical store operations.
 The main objective of the application is to automate the existing system of manually maintained records of the counter sales, purchases, reorder levels, Supplier and Customer monetary positions and other related transactions made by the seller.
 This application can be used by any other store to automate the process of manually maintaining the records related to the subject of maintaining the stock and liquid flows. 
